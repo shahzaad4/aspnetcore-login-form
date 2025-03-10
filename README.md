@@ -29,27 +29,7 @@ Before running this project, make sure you have:
 1. Clone the repository:  
    ```sh
    git clone https://github.com/shahzaad4/aspnetcore-login-form.git
-Navigate to the project folder:
-sh
-Copy
-Edit
-cd aspnetcore-login-form
-Restore dependencies:
-sh
-Copy
-Edit
-dotnet restore
-Run database migrations:
-sh
-Copy
-Edit
-dotnet ef database update
-Run the application:
-sh
-Copy
-Edit
-dotnet run
-Open your browser and go to https://localhost:5001
+
 ⚡ How It Works
 User Registration: Users can sign up with an email and password.
 Login System: The system validates user credentials and logs them in.
